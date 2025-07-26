@@ -21,7 +21,6 @@
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
@@ -59,7 +58,7 @@ To play the game locally, follow these steps:
 1.  **Clone the repository:**
 
 bash
-    > git clone https://github.com/YOUR_USERNAME/Simon-Says-Game.git
+    > git clone https://github.com/codewithshek/Simon-Says-Game.git
     1.  Press any key to start the game.
 2.  Watch the sequence of colors.
 3.  Repeat the sequence by clicking the corresponding color buttons.
@@ -77,9 +76,5 @@ bash
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## Acknowledgments
-
-*   This project was inspired by the classic "Simon Says" game.
-*   Thanks to [Stack Overflow](https://stackoverflow.com/) and [MDN Web Docs](https://developer.mozilla.org/en-US/) for providing valuable resources during development.
