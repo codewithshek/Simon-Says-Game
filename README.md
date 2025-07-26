@@ -5,8 +5,6 @@
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/Simon-Says-Game)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/Simon-Says-Game)
 
 > A web-based implementation of the classic memory game "Simon Says." Challenge your memory and repeat progressively longer sequences of colors.
 
@@ -18,7 +16,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
